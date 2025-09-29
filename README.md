@@ -21,3 +21,9 @@ Play with your friend 👥 or challenge the computer 🤖!
 ```bash
 git clone https://github.com/your-username/Tik_Tac_Toe.git
 cd Tik_Tac_Toe
+
+### 2️⃣ Install dependencies (if Flutter project)
+flutter pub get
+
+###3️⃣ Run the app
+flutter run
